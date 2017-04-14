@@ -1,3 +1,0 @@
-bd_eexianancy_connexion_homepage:
-    path:     /
-    defaults: { _controller: BDEexianancyConnexionBundle:Default:index }
