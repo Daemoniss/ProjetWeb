@@ -1,0 +1,4 @@
+services:
+#    bd_eexianancy_connexion.example:
+#        class: BDEexianancy\ConnexionBundle\Example
+#        arguments: ["@service_id", "plain_value", "%parameter%"]
